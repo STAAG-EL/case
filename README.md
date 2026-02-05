@@ -2,4 +2,5 @@
 3D cases for various contraptions
 
 - USB-Bridge
-- https://www.printables.com/model/1586126-usb-bridge-case
+  - https://www.printables.com/model/1586126-usb-bridge-case
+  - compatible with: USB-Bridge V3.0 R004
