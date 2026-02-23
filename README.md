@@ -1,5 +1,9 @@
 # 3D cases
 
+- HTL-Uno
+  - [Printables](https://a-site.com/errorPages/404.html)
+  - designed for: HTL-Uno
+
 - USB-Bridge
   - [Printables](https://www.printables.com/model/1586126-usb-bridge-case)
   - designed for: USB-Bridge V3.0 R004
