@@ -1,7 +1,7 @@
 # 3D cases
 
 - HTL-Uno
-  - [Printables](https://a-site.com/errorPages/404.html)
+  - [Printables](https://a-site.uk/errorPages/404.html)
   - designed for: HTL-Uno
 
 - USB-Bridge
