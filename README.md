@@ -1,7 +1,7 @@
 # 3D cases
 
 - HTL-Uno
-  - [Printables](https://steepangle.uk/errorPages/404.html)
+  - [Printables](https://www.printables.com/model/1614899-htl-uno-case)
   - designed for: HTL-Uno V3.42 R003
 
 - USB-Bridge
